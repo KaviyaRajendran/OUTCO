@@ -1,0 +1,59 @@
+TestPlan ID 
+TP-Module-001
+
+Introduction
+    About the Plan
+
+Scope
+    What functionality is in scope, and what is not in scope
+
+Test Objectives 
+    What are the cases, scenarios
+
+Test Strategy 
+    Testing Levels(Unit, Integration, System, UAT), Techniques(Manual, Automation), Testing Types(Functional, Load, Security)
+
+Test Environment
+    Device, Browser, Tools
+    Automation Tools
+
+Test Deliverables
+    Test Scenarios
+    Test cases
+    Test data
+    Test execution report
+    Defect report
+    Final test summary report
+
+Roles and Responsibilities
+    Test Manager – Approve test plan, monitor progress
+    Test Engineer – Design & execute test cases, report defects
+    Developer – Fix defects, support the testing team
+    Business Analyst – Clarify requirements
+
+Schedule
+    Test Planning – 01 Oct 2025
+    Test Case Design – 03 Oct 2025
+    Test Execution Start – 07 Oct 2025
+    Test Execution End – 14 Oct 2025
+    Test Closure – 15 Oct 2025
+
+Entry and Exit Criteria
+Entry Criteria
+    Login module build deployed in the test environment
+    Test data prepared
+    Test cases reviewed and approved
+Exit Criteria
+    All critical and high-priority test cases executed
+    All critical defects fixed and re-tested
+    Test summary report prepared and signed off
+
+Risks & Mitigation 
+Risk: Delay in build deployment → Mitigation: Align with the DevOps team for timely release
+Risk: Test environment downtime → Mitigation: Backup server available
+Risk: Requirement changes → Mitigation: Agile change control process
+
+Approvals
+Test Manager: ___________________
+Project Manager: _________________
+Business Analyst: _________________
