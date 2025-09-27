@@ -19,7 +19,11 @@ password recovery, tools, timelines, and responsibilities, so nothing is missed.
 
 
 What is Testcase?
-
+A test case is basically a step-by-step guide to check if a feature in a software application works as expected. 
+It includes the input data, the steps to perform, and the expected outcome. 
+For example, for a login feature, a test case would specify entering a username and password, clicking login,
+and verifying the user reaches the dashboard. 
+It helps ensure nothing is missed and everything works correctly.
 
 
 
