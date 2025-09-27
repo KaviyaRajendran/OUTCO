@@ -10,7 +10,15 @@ How can smart tech improve outdoor estate compliance?
 
 📝 Technical Questions
 
+What is a Test Plan?
+A test plan is a document that defines what to test, how to test, and who will do it. 
+Its purpose is to make sure testing is organized, complete, and efficient. 
+It usually includes the scope, objectives, approach, environment, roles, and schedule. 
+For example, if I were testing a login module, the plan would cover valid and invalid logins, 
+password recovery, tools, timelines, and responsibilities, so nothing is missed.
 
+
+What is Testcase?
 
 
 
