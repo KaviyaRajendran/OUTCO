@@ -1,0 +1,18 @@
+Testcase ID
+    TC_Login_01
+Description / Objective
+    What are you testing?
+Preconditions
+    Any setup required before testing.
+Test Steps
+    Step-by-step instructions.
+Test Data 
+    Input values needed.
+Expected Result
+  What should happen if the software works correctly?
+Actual Result
+  What actually happened during testing.
+Status
+    Pass/Fail
+Remarks
+    Any additional information.
